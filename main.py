@@ -23,5 +23,5 @@ from func import *
 while True:
     # os.system('clear')
     print_innstructins()
-    choose(input("Введите команду (1 2 3 4 или -1): "))
+    choose(input("Введите команду (1 2 3 4 5 или 0): "))
     input("Введите enter чтобы продолжить")
